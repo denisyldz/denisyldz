@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denisyldz
-- 🌱 I’m currently learning React framework
+- 🌱 I’m currently learning React
 
 
 <!---
