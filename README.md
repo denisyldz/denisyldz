@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @denisyldz
-- 🌱 I’m currently learning React
-
 
 <!---
 denisyldz/denisyldz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
