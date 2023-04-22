@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **denizyildiz000@outlook.com**
 
-- 🖤 Loves **Dancing, music and video games**
+- 🖤 Loves **dancing, music and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
